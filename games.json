@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "games": [
+    {
+      "id": "world_goal_cup",
+      "title": "World Goal Cup",
+      "genre": "Arcade Sports",
+      "desc": "8-team knockout soccer arcade \u2014 score bicycle kicks, dodge tackles, and lift the cup.",
+      "artUrl": "https://raw.githubusercontent.com/CheesiePy/padlink-releases/main/art/world_goal_cup.jpg",
+      "installed": true,
+      "ctaLabel": "Play",
+      "ctaUrl": "https://github.com/CheesiePy/padlink-releases"
+    },
+    {
+      "id": "deep_blast",
+      "title": "Deep Blast",
+      "genre": "Arcade Shooter",
+      "desc": "Aim and fire on a submarine hunt through multiple underwater waves and boss mines.",
+      "artUrl": "https://raw.githubusercontent.com/CheesiePy/padlink-releases/main/art/deep_blast.jpg",
+      "installed": true,
+      "ctaLabel": "Play",
+      "ctaUrl": "https://github.com/CheesiePy/padlink-releases"
+    },
+    {
+      "id": "spirit_guard",
+      "title": "Spirit Guard",
+      "genre": "Action Survival",
+      "desc": "Dodge fire stones and collect talismans to survive as the last spirit guardian.",
+      "artUrl": "https://raw.githubusercontent.com/CheesiePy/padlink-releases/main/art/spirit_guard.jpg",
+      "installed": false,
+      "ctaLabel": "Get",
+      "ctaUrl": "https://github.com/CheesiePy/padlink-releases"
+    },
+    {
+      "id": "wasteland_rider",
+      "title": "Wasteland Rider",
+      "genre": "Arcade Flyer",
+      "desc": "Jetpack across a crumbling wasteland, weaving through spiked mines for distance.",
+      "artUrl": "https://raw.githubusercontent.com/CheesiePy/padlink-releases/main/art/wasteland_rider.jpg",
+      "installed": false,
+      "ctaLabel": "Get",
+      "ctaUrl": "https://github.com/CheesiePy/padlink-releases"
+    },
+    {
+      "id": "sparkle_wings",
+      "title": "Sparkle Wings",
+      "genre": "Casual Dodge",
+      "desc": "Guide a forest fairy past thorns and traps while collecting hearts for extra lives.",
+      "artUrl": "https://raw.githubusercontent.com/CheesiePy/padlink-releases/main/art/sparkle_wings.jpg",
+      "installed": false,
+      "ctaLabel": "Get",
+      "ctaUrl": "https://github.com/CheesiePy/padlink-releases"
+    },
+    {
+      "id": "banana_dash",
+      "title": "Banana Dash",
+      "genre": "Casual Runner",
+      "desc": "Roll, dash, and dodge through the jungle as the banana king chasing a high score.",
+      "artUrl": "https://raw.githubusercontent.com/CheesiePy/padlink-releases/main/art/banana_dash.jpg",
+      "installed": false,
+      "ctaLabel": "Get",
+      "ctaUrl": "https://github.com/CheesiePy/padlink-releases"
+    }
+  ]
+}
